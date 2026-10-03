@@ -1,0 +1,52 @@
+{
+  "seed": 42,
+  "created_utc": "2026-10-03T14:57:47.965797+00:00",
+  "background_matching": "GSE5086 fitted log2 microarray intensity at age 50 is the expression proxy; age slope signs not used to choose background genes.",
+  "eligible_counts": {
+    "background": 16154,
+    "up": 442,
+    "down": 162
+  },
+  "source_hashes": {
+    "gse5086_results.tsv": "3a3864b85c02fb30b4749d4aa944b8c0da9e4097c90c709b5acf1326ae670775",
+    "gse40645_results.tsv": "ccdf0f25f83d7284ffe909bdcf3433862b178dbd8214839c944583542d0c2178",
+    "hagr_up.xlsx": "00b457078e3c98bb3e877b193ce11608b8253821ebf721c8f53d2034cea10c45",
+    "hagr_down.xlsx": "6ea6584cf1ed3b366881d381511f4c3381a2395a5890ccffe82be8973944225d",
+    "hgnc_indra.tsv": "b74ea2e6a454dbf5b5db6e5f61aae28246dbebb6ccb408d19ebf0a0e50cbdae6"
+  },
+  "gene_mapping_source": "HGNC nomenclature mirrored in gyorilab/indra indra/resources/hgnc_entries.tsv blob 67bc1e99d6ed12171a04daa4dd4e3a252b4bd8a4.",
+  "control_entrez_ids": [
+    54806,
+    23191,
+    10302,
+    54896,
+    9817,
+    56648,
+    56257,
+    3068,
+    23139,
+    57563,
+    29078,
+    54927,
+    10059,
+    518,
+    10808,
+    84206,
+    29090,
+    163404,
+    2021,
+    4716,
+    716,
+    64805,
+    148867,
+    3606,
+    83857,
+    26020,
+    23446,
+    3071,
+    19,
+    253260
+  ],
+  "frozen_panel_sha256": "84811105d073cef1c0f1b85969fa74be9eeffbffd219856d96fa73beb65b6bb5",
+  "selection": "Reused the fixed pilot panel: 50 HAGR up, 50 HAGR down, 50 GSE5086 age-50 expression-matched background genes. Panel existed before HCATA outcome extraction. HAGR directions are selection annotations, not HCATA truth. Prior pilot GI predictions had been inspected, so this is an exploratory follow-up, not a preregistered blinded model evaluation."
+}

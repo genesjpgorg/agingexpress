@@ -1,0 +1,571 @@
+request_id	ensembl_gene_id	gene_symbol	model	variant	condition	age_years	description	primary_target_available
+ENSG00000078596__primary_young	ENSG00000078596	ITM2A	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000078596__primary_old	ENSG00000078596	ITM2A	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000078596__baseline_baseline	ENSG00000078596	ITM2A	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000169313__primary_young	ENSG00000169313	P2RY12	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000169313__primary_old	ENSG00000169313	P2RY12	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000169313__baseline_baseline	ENSG00000169313	P2RY12	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000169313__alt1_young	ENSG00000169313	P2RY12	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	0
+ENSG00000169313__alt1_old	ENSG00000169313	P2RY12	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	0
+ENSG00000169313__alt2_young	ENSG00000169313	P2RY12	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	0
+ENSG00000169313__alt2_old	ENSG00000169313	P2RY12	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	0
+ENSG00000154265__primary_young	ENSG00000154265	ABCA5	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000154265__primary_old	ENSG00000154265	ABCA5	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000154265__baseline_baseline	ENSG00000154265	ABCA5	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000167130__primary_young	ENSG00000167130	DOLPP1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000167130__primary_old	ENSG00000167130	DOLPP1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000167130__baseline_baseline	ENSG00000167130	DOLPP1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000140157__primary_young	ENSG00000140157	NIPA2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000140157__primary_old	ENSG00000140157	NIPA2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000140157__baseline_baseline	ENSG00000140157	NIPA2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000112972__primary_young	ENSG00000112972	HMGCS1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000112972__primary_old	ENSG00000112972	HMGCS1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000112972__baseline_baseline	ENSG00000112972	HMGCS1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000035862__primary_young	ENSG00000035862	TIMP2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000035862__primary_old	ENSG00000035862	TIMP2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000035862__baseline_baseline	ENSG00000035862	TIMP2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000107957__primary_young	ENSG00000107957	SH3PXD2A	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000107957__primary_old	ENSG00000107957	SH3PXD2A	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000107957__baseline_baseline	ENSG00000107957	SH3PXD2A	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000104763__primary_young	ENSG00000104763	ASAH1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000104763__primary_old	ENSG00000104763	ASAH1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000104763__baseline_baseline	ENSG00000104763	ASAH1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000115415__primary_young	ENSG00000115415	STAT1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000115415__primary_old	ENSG00000115415	STAT1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000115415__baseline_baseline	ENSG00000115415	STAT1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000168610__primary_young	ENSG00000168610	STAT3	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000168610__primary_old	ENSG00000168610	STAT3	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000168610__baseline_baseline	ENSG00000168610	STAT3	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000123545__primary_young	ENSG00000123545	NDUFAF4	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000123545__primary_old	ENSG00000123545	NDUFAF4	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000123545__baseline_baseline	ENSG00000123545	NDUFAF4	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000123545__alt1_young	ENSG00000123545	NDUFAF4	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000123545__alt1_old	ENSG00000123545	NDUFAF4	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000123545__alt2_young	ENSG00000123545	NDUFAF4	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000123545__alt2_old	ENSG00000123545	NDUFAF4	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000108821__primary_young	ENSG00000108821	COL1A1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000108821__primary_old	ENSG00000108821	COL1A1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000108821__baseline_baseline	ENSG00000108821	COL1A1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000123338__primary_young	ENSG00000123338	NCKAP1L	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000123338__primary_old	ENSG00000123338	NCKAP1L	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000123338__baseline_baseline	ENSG00000123338	NCKAP1L	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000123338__alt1_young	ENSG00000123338	NCKAP1L	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000123338__alt1_old	ENSG00000123338	NCKAP1L	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000123338__alt2_young	ENSG00000123338	NCKAP1L	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000123338__alt2_old	ENSG00000123338	NCKAP1L	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000069974__primary_young	ENSG00000069974	RAB27A	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000069974__primary_old	ENSG00000069974	RAB27A	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000069974__baseline_baseline	ENSG00000069974	RAB27A	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000164405__primary_young	ENSG00000164405	UQCRQ	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000164405__primary_old	ENSG00000164405	UQCRQ	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000164405__baseline_baseline	ENSG00000164405	UQCRQ	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000179242__primary_young	ENSG00000179242	CDH4	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000179242__primary_old	ENSG00000179242	CDH4	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000179242__baseline_baseline	ENSG00000179242	CDH4	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000091483__primary_young	ENSG00000091483	FH	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000091483__primary_old	ENSG00000091483	FH	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000091483__baseline_baseline	ENSG00000091483	FH	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000179091__primary_young	ENSG00000179091	CYC1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000179091__primary_old	ENSG00000179091	CYC1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000179091__baseline_baseline	ENSG00000179091	CYC1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000105372__primary_young	ENSG00000105372	RPS19	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000105372__primary_old	ENSG00000105372	RPS19	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000105372__baseline_baseline	ENSG00000105372	RPS19	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000082146__primary_young	ENSG00000082146	STRADB	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000082146__primary_old	ENSG00000082146	STRADB	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000082146__baseline_baseline	ENSG00000082146	STRADB	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000088543__primary_young	ENSG00000088543	C3orf18	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000088543__primary_old	ENSG00000088543	C3orf18	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000088543__baseline_baseline	ENSG00000088543	C3orf18	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000143321__primary_young	ENSG00000143321	HDGF	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000143321__primary_old	ENSG00000143321	HDGF	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000143321__baseline_baseline	ENSG00000143321	HDGF	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000143321__alt1_young	ENSG00000143321	HDGF	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000143321__alt1_old	ENSG00000143321	HDGF	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000143321__alt2_young	ENSG00000143321	HDGF	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000143321__alt2_old	ENSG00000143321	HDGF	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000132386__primary_young	ENSG00000132386	SERPINF1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000132386__primary_old	ENSG00000132386	SERPINF1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000132386__baseline_baseline	ENSG00000132386	SERPINF1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000166337__primary_young	ENSG00000166337	TAF10	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000166337__primary_old	ENSG00000166337	TAF10	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000166337__baseline_baseline	ENSG00000166337	TAF10	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000113448__primary_young	ENSG00000113448	PDE4D	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000113448__primary_old	ENSG00000113448	PDE4D	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000113448__baseline_baseline	ENSG00000113448	PDE4D	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000203730__primary_young	ENSG00000203730	TEDDM1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000203730__primary_old	ENSG00000203730	TEDDM1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000203730__baseline_baseline	ENSG00000203730	TEDDM1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000131910__primary_young	ENSG00000131910	NR0B2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000131910__primary_old	ENSG00000131910	NR0B2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000131910__baseline_baseline	ENSG00000131910	NR0B2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000172115__primary_young	ENSG00000172115	CYCS	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000172115__primary_old	ENSG00000172115	CYCS	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000172115__baseline_baseline	ENSG00000172115	CYCS	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000162961__primary_young	ENSG00000162961	DPY30	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000162961__primary_old	ENSG00000162961	DPY30	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000162961__baseline_baseline	ENSG00000162961	DPY30	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000154518__primary_young	ENSG00000154518	ATP5MC3	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000154518__primary_old	ENSG00000154518	ATP5MC3	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000154518__baseline_baseline	ENSG00000154518	ATP5MC3	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000154518__alt1_young	ENSG00000154518	ATP5MC3	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000154518__alt1_old	ENSG00000154518	ATP5MC3	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000154518__alt2_young	ENSG00000154518	ATP5MC3	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000154518__alt2_old	ENSG00000154518	ATP5MC3	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000100242__primary_young	ENSG00000100242	SUN2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000100242__primary_old	ENSG00000100242	SUN2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000100242__baseline_baseline	ENSG00000100242	SUN2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000138463__primary_young	ENSG00000138463	SLC49A4	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000138463__primary_old	ENSG00000138463	SLC49A4	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000138463__baseline_baseline	ENSG00000138463	SLC49A4	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000174444__primary_young	ENSG00000174444	RPL4	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000174444__primary_old	ENSG00000174444	RPL4	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000174444__baseline_baseline	ENSG00000174444	RPL4	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000067704__primary_young	ENSG00000067704	IARS2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000067704__primary_old	ENSG00000067704	IARS2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000067704__baseline_baseline	ENSG00000067704	IARS2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000092068__primary_young	ENSG00000092068	SLC7A8	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000092068__primary_old	ENSG00000092068	SLC7A8	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000092068__baseline_baseline	ENSG00000092068	SLC7A8	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000039068__primary_young	ENSG00000039068	CDH1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000039068__primary_old	ENSG00000039068	CDH1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000039068__baseline_baseline	ENSG00000039068	CDH1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000086015__primary_young	ENSG00000086015	MAST2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000086015__primary_old	ENSG00000086015	MAST2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000086015__baseline_baseline	ENSG00000086015	MAST2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000086015__alt1_young	ENSG00000086015	MAST2	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000086015__alt1_old	ENSG00000086015	MAST2	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000086015__alt2_young	ENSG00000086015	MAST2	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000086015__alt2_old	ENSG00000086015	MAST2	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000143158__primary_young	ENSG00000143158	MPC2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000143158__primary_old	ENSG00000143158	MPC2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000143158__baseline_baseline	ENSG00000143158	MPC2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000162511__primary_young	ENSG00000162511	LAPTM5	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000162511__primary_old	ENSG00000162511	LAPTM5	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000162511__baseline_baseline	ENSG00000162511	LAPTM5	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000172578__primary_young	ENSG00000172578	KLHL6	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000172578__primary_old	ENSG00000172578	KLHL6	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000172578__baseline_baseline	ENSG00000172578	KLHL6	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000040487__primary_young	ENSG00000040487	SLC66A1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000040487__primary_old	ENSG00000040487	SLC66A1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000040487__baseline_baseline	ENSG00000040487	SLC66A1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000040487__alt1_young	ENSG00000040487	SLC66A1	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	0
+ENSG00000040487__alt1_old	ENSG00000040487	SLC66A1	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	0
+ENSG00000040487__alt2_young	ENSG00000040487	SLC66A1	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	0
+ENSG00000040487__alt2_old	ENSG00000040487	SLC66A1	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	0
+ENSG00000186628__primary_young	ENSG00000186628	FSD2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000186628__primary_old	ENSG00000186628	FSD2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000186628__baseline_baseline	ENSG00000186628	FSD2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000182333__primary_young	ENSG00000182333	LIPF	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000182333__primary_old	ENSG00000182333	LIPF	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000182333__baseline_baseline	ENSG00000182333	LIPF	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000150782__primary_young	ENSG00000150782	IL18	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000150782__primary_old	ENSG00000150782	IL18	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000150782__baseline_baseline	ENSG00000150782	IL18	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000150782__alt1_young	ENSG00000150782	IL18	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000150782__alt1_old	ENSG00000150782	IL18	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000150782__alt2_young	ENSG00000150782	IL18	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000150782__alt2_old	ENSG00000150782	IL18	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000182568__primary_young	ENSG00000182568	SATB1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000182568__primary_old	ENSG00000182568	SATB1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000182568__baseline_baseline	ENSG00000182568	SATB1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000106554__primary_young	ENSG00000106554	CHCHD3	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000106554__primary_old	ENSG00000106554	CHCHD3	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000106554__baseline_baseline	ENSG00000106554	CHCHD3	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000106554__alt1_young	ENSG00000106554	CHCHD3	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000106554__alt1_old	ENSG00000106554	CHCHD3	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000106554__alt2_young	ENSG00000106554	CHCHD3	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000106554__alt2_old	ENSG00000106554	CHCHD3	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000125246__primary_young	ENSG00000125246	CLYBL	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000125246__primary_old	ENSG00000125246	CLYBL	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000125246__baseline_baseline	ENSG00000125246	CLYBL	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000165029__primary_young	ENSG00000165029	ABCA1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000165029__primary_old	ENSG00000165029	ABCA1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000165029__baseline_baseline	ENSG00000165029	ABCA1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000165029__alt1_young	ENSG00000165029	ABCA1	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000165029__alt1_old	ENSG00000165029	ABCA1	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000165029__alt2_young	ENSG00000165029	ABCA1	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000165029__alt2_old	ENSG00000165029	ABCA1	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000101247__primary_young	ENSG00000101247	NDUFAF5	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000101247__primary_old	ENSG00000101247	NDUFAF5	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000101247__baseline_baseline	ENSG00000101247	NDUFAF5	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000204264__primary_young	ENSG00000204264	PSMB8	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000204264__primary_old	ENSG00000204264	PSMB8	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000204264__baseline_baseline	ENSG00000204264	PSMB8	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000125863__primary_young	ENSG00000125863	MKKS	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000125863__primary_old	ENSG00000125863	MKKS	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000125863__baseline_baseline	ENSG00000125863	MKKS	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000124766__primary_young	ENSG00000124766	SOX4	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000124766__primary_old	ENSG00000124766	SOX4	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000124766__baseline_baseline	ENSG00000124766	SOX4	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000130640__primary_young	ENSG00000130640	TUBGCP2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000130640__primary_old	ENSG00000130640	TUBGCP2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000130640__baseline_baseline	ENSG00000130640	TUBGCP2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000183496__primary_young	ENSG00000183496	MEX3B	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000183496__primary_old	ENSG00000183496	MEX3B	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000183496__baseline_baseline	ENSG00000183496	MEX3B	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000183496__alt1_young	ENSG00000183496	MEX3B	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	0
+ENSG00000183496__alt1_old	ENSG00000183496	MEX3B	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	0
+ENSG00000183496__alt2_young	ENSG00000183496	MEX3B	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	0
+ENSG00000183496__alt2_old	ENSG00000183496	MEX3B	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	0
+ENSG00000163346__primary_young	ENSG00000163346	PBXIP1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000163346__primary_old	ENSG00000163346	PBXIP1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000163346__baseline_baseline	ENSG00000163346	PBXIP1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000117411__primary_young	ENSG00000117411	B4GALT2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000117411__primary_old	ENSG00000117411	B4GALT2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000117411__baseline_baseline	ENSG00000117411	B4GALT2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000108528__primary_young	ENSG00000108528	SLC25A11	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000108528__primary_old	ENSG00000108528	SLC25A11	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000108528__baseline_baseline	ENSG00000108528	SLC25A11	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000131943__primary_young	ENSG00000131943	C19orf12	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000131943__primary_old	ENSG00000131943	C19orf12	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000131943__baseline_baseline	ENSG00000131943	C19orf12	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000163840__primary_young	ENSG00000163840	DTX3L	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000163840__primary_old	ENSG00000163840	DTX3L	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000163840__baseline_baseline	ENSG00000163840	DTX3L	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000120694__primary_young	ENSG00000120694	HSPH1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000120694__primary_old	ENSG00000120694	HSPH1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000120694__baseline_baseline	ENSG00000120694	HSPH1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000120694__alt1_young	ENSG00000120694	HSPH1	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000120694__alt1_old	ENSG00000120694	HSPH1	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000120694__alt2_young	ENSG00000120694	HSPH1	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000120694__alt2_old	ENSG00000120694	HSPH1	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000117519__primary_young	ENSG00000117519	CNN3	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000117519__primary_old	ENSG00000117519	CNN3	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000117519__baseline_baseline	ENSG00000117519	CNN3	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000181222__primary_young	ENSG00000181222	POLR2A	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000181222__primary_old	ENSG00000181222	POLR2A	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000181222__baseline_baseline	ENSG00000181222	POLR2A	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000164692__primary_young	ENSG00000164692	COL1A2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000164692__primary_old	ENSG00000164692	COL1A2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000164692__baseline_baseline	ENSG00000164692	COL1A2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000135070__primary_young	ENSG00000135070	ISCA1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000135070__primary_old	ENSG00000135070	ISCA1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000135070__baseline_baseline	ENSG00000135070	ISCA1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000135541__primary_young	ENSG00000135541	AHI1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000135541__primary_old	ENSG00000135541	AHI1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000135541__baseline_baseline	ENSG00000135541	AHI1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000135541__alt1_young	ENSG00000135541	AHI1	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000135541__alt1_old	ENSG00000135541	AHI1	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000135541__alt2_young	ENSG00000135541	AHI1	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000135541__alt2_old	ENSG00000135541	AHI1	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000152413__primary_young	ENSG00000152413	HOMER1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000152413__primary_old	ENSG00000152413	HOMER1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000152413__baseline_baseline	ENSG00000152413	HOMER1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000067113__primary_young	ENSG00000067113	PLPP1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000067113__primary_old	ENSG00000067113	PLPP1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000067113__baseline_baseline	ENSG00000067113	PLPP1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000079999__primary_young	ENSG00000079999	KEAP1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000079999__primary_old	ENSG00000079999	KEAP1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000079999__baseline_baseline	ENSG00000079999	KEAP1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000079999__alt1_young	ENSG00000079999	KEAP1	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000079999__alt1_old	ENSG00000079999	KEAP1	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000079999__alt2_young	ENSG00000079999	KEAP1	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000079999__alt2_old	ENSG00000079999	KEAP1	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000196187__primary_young	ENSG00000196187	TMEM63A	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000196187__primary_old	ENSG00000196187	TMEM63A	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000196187__baseline_baseline	ENSG00000196187	TMEM63A	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000178053__primary_young	ENSG00000178053	MLF1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000178053__primary_old	ENSG00000178053	MLF1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000178053__baseline_baseline	ENSG00000178053	MLF1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000136167__primary_young	ENSG00000136167	LCP1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000136167__primary_old	ENSG00000136167	LCP1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000136167__baseline_baseline	ENSG00000136167	LCP1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000164687__primary_young	ENSG00000164687	FABP5	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000164687__primary_old	ENSG00000164687	FABP5	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000164687__baseline_baseline	ENSG00000164687	FABP5	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000116748__primary_young	ENSG00000116748	AMPD1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000116748__primary_old	ENSG00000116748	AMPD1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000116748__baseline_baseline	ENSG00000116748	AMPD1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000132359__primary_young	ENSG00000132359	RAP1GAP2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000132359__primary_old	ENSG00000132359	RAP1GAP2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000132359__baseline_baseline	ENSG00000132359	RAP1GAP2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000129083__primary_young	ENSG00000129083	COPB1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000129083__primary_old	ENSG00000129083	COPB1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000129083__baseline_baseline	ENSG00000129083	COPB1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000075336__primary_young	ENSG00000075336	TIMM21	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000075336__primary_old	ENSG00000075336	TIMM21	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000075336__baseline_baseline	ENSG00000075336	TIMM21	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000075336__alt1_young	ENSG00000075336	TIMM21	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000075336__alt1_old	ENSG00000075336	TIMM21	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000075336__alt2_young	ENSG00000075336	TIMM21	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000075336__alt2_old	ENSG00000075336	TIMM21	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000163541__primary_young	ENSG00000163541	SUCLG1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000163541__primary_old	ENSG00000163541	SUCLG1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000163541__baseline_baseline	ENSG00000163541	SUCLG1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000083857__primary_young	ENSG00000083857	FAT1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000083857__primary_old	ENSG00000083857	FAT1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000083857__baseline_baseline	ENSG00000083857	FAT1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000167081__primary_young	ENSG00000167081	PBX3	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000167081__primary_old	ENSG00000167081	PBX3	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000167081__baseline_baseline	ENSG00000167081	PBX3	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000144214__primary_young	ENSG00000144214	LYG1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000144214__primary_old	ENSG00000144214	LYG1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000144214__baseline_baseline	ENSG00000144214	LYG1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000139180__primary_young	ENSG00000139180	NDUFA9	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000139180__primary_old	ENSG00000139180	NDUFA9	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000139180__baseline_baseline	ENSG00000139180	NDUFA9	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000070214__primary_young	ENSG00000070214	SLC44A1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000070214__primary_old	ENSG00000070214	SLC44A1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000070214__baseline_baseline	ENSG00000070214	SLC44A1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000070214__alt1_young	ENSG00000070214	SLC44A1	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000070214__alt1_old	ENSG00000070214	SLC44A1	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000070214__alt2_young	ENSG00000070214	SLC44A1	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000070214__alt2_old	ENSG00000070214	SLC44A1	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000131941__primary_young	ENSG00000131941	RHPN2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000131941__primary_old	ENSG00000131941	RHPN2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000131941__baseline_baseline	ENSG00000131941	RHPN2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000125148__primary_young	ENSG00000125148	MT2A	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000125148__primary_old	ENSG00000125148	MT2A	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000125148__baseline_baseline	ENSG00000125148	MT2A	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000114315__primary_young	ENSG00000114315	HES1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000114315__primary_old	ENSG00000114315	HES1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000114315__baseline_baseline	ENSG00000114315	HES1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000154473__primary_young	ENSG00000154473	BUB3	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000154473__primary_old	ENSG00000154473	BUB3	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000154473__baseline_baseline	ENSG00000154473	BUB3	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000135916__primary_young	ENSG00000135916	ITM2C	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000135916__primary_old	ENSG00000135916	ITM2C	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000135916__baseline_baseline	ENSG00000135916	ITM2C	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000174446__primary_young	ENSG00000174446	SNAPC5	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000174446__primary_old	ENSG00000174446	SNAPC5	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000174446__baseline_baseline	ENSG00000174446	SNAPC5	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000174446__alt1_young	ENSG00000174446	SNAPC5	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000174446__alt1_old	ENSG00000174446	SNAPC5	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000174446__alt2_young	ENSG00000174446	SNAPC5	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000174446__alt2_old	ENSG00000174446	SNAPC5	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000183741__primary_young	ENSG00000183741	CBX6	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000183741__primary_old	ENSG00000183741	CBX6	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000183741__baseline_baseline	ENSG00000183741	CBX6	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000108591__primary_young	ENSG00000108591	DRG2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000108591__primary_old	ENSG00000108591	DRG2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000108591__baseline_baseline	ENSG00000108591	DRG2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000154222__primary_young	ENSG00000154222	CC2D1B	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000154222__primary_old	ENSG00000154222	CC2D1B	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000154222__baseline_baseline	ENSG00000154222	CC2D1B	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000170458__primary_young	ENSG00000170458	CD14	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000170458__primary_old	ENSG00000170458	CD14	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000170458__baseline_baseline	ENSG00000170458	CD14	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000115268__primary_young	ENSG00000115268	RPS15	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000115268__primary_old	ENSG00000115268	RPS15	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000115268__baseline_baseline	ENSG00000115268	RPS15	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000168394__primary_young	ENSG00000168394	TAP1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000168394__primary_old	ENSG00000168394	TAP1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000168394__baseline_baseline	ENSG00000168394	TAP1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000103994__primary_young	ENSG00000103994	ZNF106	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000103994__primary_old	ENSG00000103994	ZNF106	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000103994__baseline_baseline	ENSG00000103994	ZNF106	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000133687__primary_young	ENSG00000133687	TMTC1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000133687__primary_old	ENSG00000133687	TMTC1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000133687__baseline_baseline	ENSG00000133687	TMTC1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000133687__alt1_young	ENSG00000133687	TMTC1	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000133687__alt1_old	ENSG00000133687	TMTC1	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000133687__alt2_young	ENSG00000133687	TMTC1	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000133687__alt2_old	ENSG00000133687	TMTC1	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000152443__primary_young	ENSG00000152443	ZNF776	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000152443__primary_old	ENSG00000152443	ZNF776	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000152443__baseline_baseline	ENSG00000152443	ZNF776	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000182326__primary_young	ENSG00000182326	C1S	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000182326__primary_old	ENSG00000182326	C1S	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000182326__baseline_baseline	ENSG00000182326	C1S	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000182326__alt1_young	ENSG00000182326	C1S	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000182326__alt1_old	ENSG00000182326	C1S	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000182326__alt2_young	ENSG00000182326	C1S	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000182326__alt2_old	ENSG00000182326	C1S	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000136938__primary_young	ENSG00000136938	ANP32B	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000136938__primary_old	ENSG00000136938	ANP32B	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000136938__baseline_baseline	ENSG00000136938	ANP32B	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000107789__primary_young	ENSG00000107789	MINPP1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000107789__primary_old	ENSG00000107789	MINPP1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000107789__baseline_baseline	ENSG00000107789	MINPP1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000069956__primary_young	ENSG00000069956	MAPK6	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000069956__primary_old	ENSG00000069956	MAPK6	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000069956__baseline_baseline	ENSG00000069956	MAPK6	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000154096__primary_young	ENSG00000154096	THY1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000154096__primary_old	ENSG00000154096	THY1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000154096__baseline_baseline	ENSG00000154096	THY1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000158195__primary_young	ENSG00000158195	WASF2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000158195__primary_old	ENSG00000158195	WASF2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000158195__baseline_baseline	ENSG00000158195	WASF2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000104894__primary_young	ENSG00000104894	CD37	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000104894__primary_old	ENSG00000104894	CD37	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000104894__baseline_baseline	ENSG00000104894	CD37	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000068615__primary_young	ENSG00000068615	REEP1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000068615__primary_old	ENSG00000068615	REEP1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000068615__baseline_baseline	ENSG00000068615	REEP1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000136521__primary_young	ENSG00000136521	NDUFB5	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000136521__primary_old	ENSG00000136521	NDUFB5	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000136521__baseline_baseline	ENSG00000136521	NDUFB5	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000164733__primary_young	ENSG00000164733	CTSB	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000164733__primary_old	ENSG00000164733	CTSB	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000164733__baseline_baseline	ENSG00000164733	CTSB	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000064115__primary_young	ENSG00000064115	TM7SF3	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000064115__primary_old	ENSG00000064115	TM7SF3	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000064115__baseline_baseline	ENSG00000064115	TM7SF3	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000134352__primary_young	ENSG00000134352	IL6ST	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000134352__primary_old	ENSG00000134352	IL6ST	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000134352__baseline_baseline	ENSG00000134352	IL6ST	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000157637__primary_young	ENSG00000157637	SLC38A10	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000157637__primary_old	ENSG00000157637	SLC38A10	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000157637__baseline_baseline	ENSG00000157637	SLC38A10	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000273749__primary_young	ENSG00000273749	CYFIP1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000273749__primary_old	ENSG00000273749	CYFIP1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000273749__baseline_baseline	ENSG00000273749	CYFIP1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000273749__alt1_young	ENSG00000273749	CYFIP1	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	0
+ENSG00000273749__alt1_old	ENSG00000273749	CYFIP1	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	0
+ENSG00000273749__alt2_young	ENSG00000273749	CYFIP1	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	0
+ENSG00000273749__alt2_old	ENSG00000273749	CYFIP1	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	0
+ENSG00000128708__primary_young	ENSG00000128708	HAT1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000128708__primary_old	ENSG00000128708	HAT1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000128708__baseline_baseline	ENSG00000128708	HAT1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000113387__primary_young	ENSG00000113387	SUB1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000113387__primary_old	ENSG00000113387	SUB1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000113387__baseline_baseline	ENSG00000113387	SUB1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000165629__primary_young	ENSG00000165629	ATP5F1C	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000165629__primary_old	ENSG00000165629	ATP5F1C	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000165629__baseline_baseline	ENSG00000165629	ATP5F1C	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000188153__primary_young	ENSG00000188153	COL4A5	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000188153__primary_old	ENSG00000188153	COL4A5	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000188153__baseline_baseline	ENSG00000188153	COL4A5	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000140990__primary_young	ENSG00000140990	NDUFB10	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000140990__primary_old	ENSG00000140990	NDUFB10	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000140990__baseline_baseline	ENSG00000140990	NDUFB10	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000140990__alt1_young	ENSG00000140990	NDUFB10	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000140990__alt1_old	ENSG00000140990	NDUFB10	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000140990__alt2_young	ENSG00000140990	NDUFB10	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000140990__alt2_old	ENSG00000140990	NDUFB10	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000167434__primary_young	ENSG00000167434	CA4	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000167434__primary_old	ENSG00000167434	CA4	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000167434__baseline_baseline	ENSG00000167434	CA4	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000127951__primary_young	ENSG00000127951	FGL2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000127951__primary_old	ENSG00000127951	FGL2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000127951__baseline_baseline	ENSG00000127951	FGL2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000146834__primary_young	ENSG00000146834	MEPCE	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000146834__primary_old	ENSG00000146834	MEPCE	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000146834__baseline_baseline	ENSG00000146834	MEPCE	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000146834__alt1_young	ENSG00000146834	MEPCE	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000146834__alt1_old	ENSG00000146834	MEPCE	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000146834__alt2_young	ENSG00000146834	MEPCE	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000146834__alt2_old	ENSG00000146834	MEPCE	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000150347__primary_young	ENSG00000150347	ARID5B	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000150347__primary_old	ENSG00000150347	ARID5B	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000150347__baseline_baseline	ENSG00000150347	ARID5B	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000156508__primary_young	ENSG00000156508	EEF1A1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000156508__primary_old	ENSG00000156508	EEF1A1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000156508__baseline_baseline	ENSG00000156508	EEF1A1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000114416__primary_young	ENSG00000114416	FXR1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000114416__primary_old	ENSG00000114416	FXR1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000114416__baseline_baseline	ENSG00000114416	FXR1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000087470__primary_young	ENSG00000087470	DNM1L	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000087470__primary_old	ENSG00000087470	DNM1L	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000087470__baseline_baseline	ENSG00000087470	DNM1L	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000087470__alt1_young	ENSG00000087470	DNM1L	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000087470__alt1_old	ENSG00000087470	DNM1L	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000087470__alt2_young	ENSG00000087470	DNM1L	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000087470__alt2_old	ENSG00000087470	DNM1L	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000113845__primary_young	ENSG00000113845	TIMMDC1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000113845__primary_old	ENSG00000113845	TIMMDC1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000113845__baseline_baseline	ENSG00000113845	TIMMDC1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000143162__primary_young	ENSG00000143162	CREG1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000143162__primary_old	ENSG00000143162	CREG1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000143162__baseline_baseline	ENSG00000143162	CREG1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000134107__primary_young	ENSG00000134107	BHLHE40	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000134107__primary_old	ENSG00000134107	BHLHE40	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000134107__baseline_baseline	ENSG00000134107	BHLHE40	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000011465__primary_young	ENSG00000011465	DCN	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000011465__primary_old	ENSG00000011465	DCN	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000011465__baseline_baseline	ENSG00000011465	DCN	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000197324__primary_young	ENSG00000197324	LRP10	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000197324__primary_old	ENSG00000197324	LRP10	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000197324__baseline_baseline	ENSG00000197324	LRP10	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000197324__alt1_young	ENSG00000197324	LRP10	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000197324__alt1_old	ENSG00000197324	LRP10	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000197324__alt2_young	ENSG00000197324	LRP10	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000197324__alt2_old	ENSG00000197324	LRP10	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000173918__primary_young	ENSG00000173918	C1QTNF1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000173918__primary_old	ENSG00000173918	C1QTNF1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000173918__baseline_baseline	ENSG00000173918	C1QTNF1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000165996__primary_young	ENSG00000165996	HACD1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000165996__primary_old	ENSG00000165996	HACD1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000165996__baseline_baseline	ENSG00000165996	HACD1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000006118__primary_young	ENSG00000006118	TMEM132A	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000006118__primary_old	ENSG00000006118	TMEM132A	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000006118__baseline_baseline	ENSG00000006118	TMEM132A	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000164327__primary_young	ENSG00000164327	RICTOR	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000164327__primary_old	ENSG00000164327	RICTOR	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000164327__baseline_baseline	ENSG00000164327	RICTOR	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000164327__alt1_young	ENSG00000164327	RICTOR	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000164327__alt1_old	ENSG00000164327	RICTOR	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000164327__alt2_young	ENSG00000164327	RICTOR	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000164327__alt2_old	ENSG00000164327	RICTOR	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000145332__primary_young	ENSG00000145332	KLHL8	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000145332__primary_old	ENSG00000145332	KLHL8	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000145332__baseline_baseline	ENSG00000145332	KLHL8	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000145332__alt1_young	ENSG00000145332	KLHL8	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000145332__alt1_old	ENSG00000145332	KLHL8	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000145332__alt2_young	ENSG00000145332	KLHL8	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000145332__alt2_old	ENSG00000145332	KLHL8	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000163577__primary_young	ENSG00000163577	EIF5A2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000163577__primary_old	ENSG00000163577	EIF5A2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000163577__baseline_baseline	ENSG00000163577	EIF5A2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000163577__alt1_young	ENSG00000163577	EIF5A2	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	0
+ENSG00000163577__alt1_old	ENSG00000163577	EIF5A2	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	0
+ENSG00000163577__alt2_young	ENSG00000163577	EIF5A2	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	0
+ENSG00000163577__alt2_old	ENSG00000163577	EIF5A2	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	0
+ENSG00000051523__primary_young	ENSG00000051523	CYBA	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000051523__primary_old	ENSG00000051523	CYBA	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000051523__baseline_baseline	ENSG00000051523	CYBA	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000117598__primary_young	ENSG00000117598	PLPPR5	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000117598__primary_old	ENSG00000117598	PLPPR5	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000117598__baseline_baseline	ENSG00000117598	PLPPR5	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000117598__alt1_young	ENSG00000117598	PLPPR5	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	0
+ENSG00000117598__alt1_old	ENSG00000117598	PLPPR5	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	0
+ENSG00000117598__alt2_young	ENSG00000117598	PLPPR5	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	0
+ENSG00000117598__alt2_old	ENSG00000117598	PLPPR5	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	0
+ENSG00000167693__primary_young	ENSG00000167693	NXN	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000167693__primary_old	ENSG00000167693	NXN	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000167693__baseline_baseline	ENSG00000167693	NXN	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000174109__primary_young	ENSG00000174109	UQCC4	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000174109__primary_old	ENSG00000174109	UQCC4	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000174109__baseline_baseline	ENSG00000174109	UQCC4	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000172216__primary_young	ENSG00000172216	CEBPB	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000172216__primary_old	ENSG00000172216	CEBPB	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000172216__baseline_baseline	ENSG00000172216	CEBPB	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000106603__primary_young	ENSG00000106603	COA1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000106603__primary_old	ENSG00000106603	COA1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000106603__baseline_baseline	ENSG00000106603	COA1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000083720__primary_young	ENSG00000083720	OXCT1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000083720__primary_old	ENSG00000083720	OXCT1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000083720__baseline_baseline	ENSG00000083720	OXCT1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000116906__primary_young	ENSG00000116906	GNPAT	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000116906__primary_old	ENSG00000116906	GNPAT	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000116906__baseline_baseline	ENSG00000116906	GNPAT	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000177971__primary_young	ENSG00000177971	IMP3	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000177971__primary_old	ENSG00000177971	IMP3	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000177971__baseline_baseline	ENSG00000177971	IMP3	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000169908__primary_young	ENSG00000169908	TM4SF1	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000169908__primary_old	ENSG00000169908	TM4SF1	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000169908__baseline_baseline	ENSG00000169908	TM4SF1	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000090013__primary_young	ENSG00000090013	BLVRB	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000090013__primary_old	ENSG00000090013	BLVRB	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000090013__baseline_baseline	ENSG00000090013	BLVRB	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000135924__primary_young	ENSG00000135924	DNAJB2	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000135924__primary_old	ENSG00000135924	DNAJB2	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000135924__baseline_baseline	ENSG00000135924	DNAJB2	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000187323__primary_young	ENSG00000187323	DCC	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	0
+ENSG00000187323__primary_old	ENSG00000187323	DCC	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	0
+ENSG00000187323__baseline_baseline	ENSG00000187323	DCC	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	0
+ENSG00000167136__primary_young	ENSG00000167136	ENDOG	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000167136__primary_old	ENSG00000167136	ENDOG	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000167136__baseline_baseline	ENSG00000167136	ENDOG	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000167136__alt1_young	ENSG00000167136	ENDOG	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000167136__alt1_old	ENSG00000167136	ENDOG	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000167136__alt2_young	ENSG00000167136	ENDOG	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000167136__alt2_old	ENSG00000167136	ENDOG	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1
+ENSG00000162695__primary_young	ENSG00000162695	SLC30A7	g0-expression	primary	young	20	Human skeletal muscle tissue from a 20-year-old adult donor.	1
+ENSG00000162695__primary_old	ENSG00000162695	SLC30A7	g0-expression	primary	old	75	Human skeletal muscle tissue from a 75-year-old adult donor.	1
+ENSG00000162695__baseline_baseline	ENSG00000162695	SLC30A7	g0-expression	baseline	baseline		Human skeletal muscle tissue from an adult donor.	1
+ENSG00000162695__alt1_young	ENSG00000162695	SLC30A7	g0-expression	alt1	young	20	Human skeletal muscle tissue from an adult donor aged 20 years.	1
+ENSG00000162695__alt1_old	ENSG00000162695	SLC30A7	g0-expression	alt1	old	75	Human skeletal muscle tissue from an adult donor aged 75 years.	1
+ENSG00000162695__alt2_young	ENSG00000162695	SLC30A7	g0-expression	alt2	young	20	Skeletal muscle tissue from a human adult donor who is 20 years old.	1
+ENSG00000162695__alt2_old	ENSG00000162695	SLC30A7	g0-expression	alt2	old	75	Skeletal muscle tissue from a human adult donor who is 75 years old.	1

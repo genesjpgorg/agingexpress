@@ -1,0 +1,57 @@
+{
+  "queried_utc": "2026-10-03",
+  "task": "expression",
+  "default_model": "g0-expression",
+  "models": [
+    {
+      "id": "g0-expression",
+      "name": "G0 Expression",
+      "description": "G0 Expression",
+      "is_default": true,
+      "bio_spec": {
+        "sequence_type": "DNA",
+        "tokenization": "BPE",
+        "kmer_k": null,
+        "max_tokens": 1024,
+        "request_max_bp": 500000,
+        "context_window_bp": null,
+        "trained_window_bp": 9198,
+        "recommended_flank_bp": 4599,
+        "organism": "human",
+        "capabilities": [
+          "regression",
+          "expression_prediction"
+        ],
+        "output_formats": [
+          "json"
+        ],
+        "training_data": "Human and mouse RNA-seq: ENCODE bulk, GTEx via recount3, and cellxgene single-cell pseudobulk"
+      }
+    },
+    {
+      "id": "g0-expression-8192",
+      "name": "G0 Expression (long context)",
+      "description": "G0 Expression (long context)",
+      "is_default": false,
+      "bio_spec": {
+        "sequence_type": "DNA",
+        "tokenization": "BPE",
+        "kmer_k": null,
+        "max_tokens": 8192,
+        "request_max_bp": 500000,
+        "context_window_bp": null,
+        "trained_window_bp": null,
+        "recommended_flank_bp": 40960,
+        "organism": "human",
+        "capabilities": [
+          "regression",
+          "expression_prediction"
+        ],
+        "output_formats": [
+          "json"
+        ],
+        "training_data": "Human and mouse RNA-seq: ENCODE bulk, GTEx via recount3, and cellxgene single-cell pseudobulk"
+      }
+    }
+  ]
+}

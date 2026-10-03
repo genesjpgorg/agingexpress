@@ -1,0 +1,18 @@
+study_pmid	hcata_sample_id	donor_id	age_years	sex_hcata	disease_status_hcata	tissue_hcata	geo_accession	geo_age_years	geo_group	health_status_verified	covariate_warning
+36516485	3553	HM1	75	unknown	healthy	skeletal muscle	GSM5098737	75	Old	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3554	HM2	76	unknown	healthy	skeletal muscle	GSM5098738	76	Old	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3555	HM3	75	unknown	healthy	skeletal muscle	GSM5098739	75	Old	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3556	HM4	79	unknown	healthy	skeletal muscle	GSM5098740	79	Old	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3557	HM5	20	unknown	healthy	skeletal muscle	GSM5098741	20	Young	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3558	HM6	82	unknown	healthy	skeletal muscle	GSM5098742	82	Old	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3559	HM7	72	unknown	healthy	skeletal muscle	GSM5098743	72	Old	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3560	HM8	21	unknown	healthy	skeletal muscle	GSM5098744	21	Young	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3561	HM9	70	unknown	healthy	skeletal muscle	GSM5098745	70	Old	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3562	HM10	21	unknown	healthy	skeletal muscle	GSM5098746	21	Young	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3563	HM11	75	unknown	healthy	skeletal muscle	GSM5098747	75	Old	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3564	HM12	72	unknown	healthy	skeletal muscle	GSM5098748	72	Old	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3565	HM13	19	unknown	healthy	skeletal muscle	GSM5098749	19	Young	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3566	HM15	79	unknown	healthy	skeletal muscle	GSM5098750	79	Old	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3567	HM21	22	unknown	healthy	skeletal muscle	GSM5098751	22	Young	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3568	HM22	21	unknown	healthy	skeletal muscle	GSM5098752	21	Young	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.
+36516485	3569	HM23	90	unknown	healthy	skeletal muscle	GSM5098753	90	Old	no	Portal healthy label is not independently confirmed; source study includes sarcopenia/frailty.

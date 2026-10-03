@@ -1,0 +1,21 @@
+context_id	cell_type_hcata	cell_type_alternative_2	cell_type_alternative_3	primary_tissue_context
+ctx_0234b64ace9c	All Cells,  Skeletal Muscle	NA	NA	1
+ctx_0fd5032b2b0c	Adventitial cell 8	Mesenchymal stem cell	Myogenic endothelial cell	0
+ctx_1f3e2a4066d7	Adventitial cell 2	Mesenchymal stem cell	Myogenic endothelial cell	0
+ctx_238c34ecff52	Unkown	NA	NA	0
+ctx_3c1aedecb8ec	Adventitial cell 7	Mesenchymal stem cell	Myogenic endothelial cell	0
+ctx_416833ac90ca	Mesenchymal stem cell 3	Adventitial cell	Mesenchymal stromal cell	0
+ctx_51a23717b452	Mesenchymal stem cell	Pericyte	NA	0
+ctx_5243fb2c6d5c	Adventitial cell 4	Mesenchymal stem cell	Muscle-derived cell	0
+ctx_5da05f63762a	Unkown 4	NA	NA	0
+ctx_66b8877333b1	Adventitial cell 3	Mesenchymal stem cell	Myogenic endothelial cell	0
+ctx_926384c8242b	Unkown 5	NA	NA	0
+ctx_93986af51167	Adventitial cell 5	Mesenchymal stem cell	Muscle-derived cell	0
+ctx_9aa0a69d626d	Adventitial cell 6	Mesenchymal stem cell	Myogenic endothelial cell	0
+ctx_bfd71711437a	Unkown 2	NA	NA	0
+ctx_c138321e7ebd	Unkown 3	NA	NA	0
+ctx_c157cf74c34b	Mesenchymal stem cell 2	Adventitial cell	Mesenchymal stromal cell	0
+ctx_d30649d2fd62	Unkown 7	NA	NA	0
+ctx_d78029928f98	Adventitial cell	Mesenchymal stem cell	Muscle-derived cell	0
+ctx_e129c8e975de	Unkown 8	NA	NA	0
+ctx_e81eac8c401a	Unkown 6	NA	NA	0

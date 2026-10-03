@@ -1,0 +1,28 @@
+{
+  "snapshot_date_utc": "2026-10-03",
+  "hcata_paper": {
+    "title": "Human Cell Aging Transcriptome Atlas (HCATA): a single-cell atlas of age-associated transcriptomic alterations across human tissues",
+    "url": "https://www.nature.com/articles/s42003-025-08845-8",
+    "doi": "10.1038/s42003-025-08845-8",
+    "published": "2025-10-09"
+  },
+  "hcata_portal": "http://hcata-xiaodonglab.org:3304/",
+  "hcata_public_web_client": {
+    "url": "http://hcata-xiaodonglab.org:3304/main.662c2bde5d4e334f.js",
+    "sha256": "0c9d8b4ae99fb30317e763a647a0942189cb9d6d03fb3de850fa6faa581decd5",
+    "used_for": "Public API route, integer Ensembl conversion, adjusted-p display scale and decade-change conversion"
+  },
+  "muscle_source_study": {
+    "pmid": 36516485,
+    "doi": "10.18632/aging.204435",
+    "title": "Single nuclei profiling identifies cell specific markers of skeletal muscle aging, frailty, and senescence",
+    "year": 2022,
+    "geo": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167186"
+  },
+  "hcata_statistical_method": "Paper describes NEBULA negative-binomial mixed models with age as a continuous variable and sex as a covariate. Cohort-specific sex/covariate inputs cannot be verified from portal metadata.",
+  "reference_expression_scale": "Paper describes Seurat library-size normalization to 10000 followed by natural-log transform; exported age effects are described as annual Log2FC. No TPM ground truth is provided here.",
+  "gene_selection_used_hcata_outcomes": false,
+  "earlier_pilot_gi_predictions_previously_inspected": true,
+  "model_training_overlap_status": "not_checked",
+  "source_data_relicensed": false
+}

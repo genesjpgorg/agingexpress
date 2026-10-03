@@ -1,0 +1,32 @@
+{
+  "dataset_id": "hcata_muscle_v1",
+  "snapshot_date_utc": "2026-10-03",
+  "study_pmid": 36516485,
+  "geo_series": "GSE167186",
+  "frozen_genes": 150,
+  "primary_target_genes": 124,
+  "muscle_effect_rows": 2426,
+  "muscle_contexts": 20,
+  "source_effect_rows_all_tissues": 28818,
+  "donors": 17,
+  "age_min": 19,
+  "age_max": 90,
+  "donors_age_19_to_22": 6,
+  "donors_age_70_to_90": 11,
+  "primary_adjusted_p_below_0_05": 0,
+  "primary_reported_rounded_zero": 16,
+  "primary_gi_requests": 300,
+  "total_gi_requests_including_controls": 570,
+  "verified_archived_source_files": 26,
+  "health_labels_independently_verified": false,
+  "gi_predictions_run": false,
+  "checks_passed": [
+    "source checksums",
+    "unique frozen identifiers",
+    "unique gene/context effects",
+    "finite effect/probability fields",
+    "one primary effect per gene",
+    "HCATA and GEO donor ages agree",
+    "17 distinct GEO donor records"
+  ]
+}
