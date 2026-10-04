@@ -1,0 +1,200 @@
+{
+ "model": "g0-expression",
+ "studies": {
+  "30518681": {
+   "tissue": "bone marrow",
+   "age_young": 30,
+   "age_old": 66,
+   "n_genes": 122,
+   "spearman": -0.3325205802831658,
+   "spearman_95ci": [
+    -0.4846761936046653,
+    -0.16866979413473504
+   ],
+   "direction_accuracy_nonzero": 0.2608695652173913,
+   "n_reference_significant": 0,
+   "spearman_significant_subset": null,
+   "predicted_change_sd": 0.19377281133094013,
+   "predicted_constant": false
+  },
+  "30554520": {
+   "tissue": "lung",
+   "age_young": 22,
+   "age_old": 71,
+   "n_genes": 136,
+   "spearman": -0.11541930705633721,
+   "spearman_95ci": [
+    -0.2863122554999808,
+    0.05555801933009401
+   ],
+   "direction_accuracy_nonzero": 0.46511627906976744,
+   "n_reference_significant": 0,
+   "spearman_significant_subset": null,
+   "predicted_change_sd": 0.2797898691499822,
+   "predicted_constant": false
+  },
+  "31178122": {
+   "tissue": "brain",
+   "age_young": 18,
+   "age_old": 75,
+   "n_genes": 131,
+   "spearman": -0.15599631862735938,
+   "spearman_95ci": [
+    -0.32151634290224673,
+    0.028119205809255483
+   ],
+   "direction_accuracy_nonzero": 0.33613445378151263,
+   "n_reference_significant": 2,
+   "spearman_significant_subset": null,
+   "predicted_change_sd": 0.3622240678674994,
+   "predicted_constant": false
+  },
+  "31316211": {
+   "tissue": "brain",
+   "age_young": 35,
+   "age_old": 64,
+   "n_genes": 123,
+   "spearman": -0.2257323437706954,
+   "spearman_95ci": [
+    -0.3997209425321122,
+    -0.04812934591742193
+   ],
+   "direction_accuracy_nonzero": 0.5,
+   "n_reference_significant": 2,
+   "spearman_significant_subset": null,
+   "predicted_change_sd": 0.09194505275358704,
+   "predicted_constant": false
+  },
+  "31924475": {
+   "tissue": "blood",
+   "age_young": 38,
+   "age_old": 75,
+   "n_genes": 122,
+   "spearman": -0.05930227185890867,
+   "spearman_95ci": [
+    -0.2543392216537422,
+    0.13182776568007165
+   ],
+   "direction_accuracy_nonzero": 0.5089285714285714,
+   "n_reference_significant": 0,
+   "spearman_significant_subset": null,
+   "predicted_change_sd": 0.18700937169391496,
+   "predicted_constant": false
+  },
+  "32832599": {
+   "tissue": "lung",
+   "age_young": 31,
+   "age_old": 70,
+   "n_genes": 140,
+   "spearman": -0.19081853464147652,
+   "spearman_95ci": [
+    -0.35538594623791003,
+    -0.018633990472949377
+   ],
+   "direction_accuracy_nonzero": 0.46875,
+   "n_reference_significant": 0,
+   "spearman_significant_subset": null,
+   "predicted_change_sd": 0.39467601596246127,
+   "predicted_constant": false
+  },
+  "32888429": {
+   "tissue": "colon",
+   "age_young": 35,
+   "age_old": 82,
+   "n_genes": 127,
+   "spearman": -0.04466960486064592,
+   "spearman_95ci": [
+    -0.22238075351344083,
+    0.13140768778305734
+   ],
+   "direction_accuracy_nonzero": 0.47413793103448276,
+   "n_reference_significant": 3,
+   "spearman_significant_subset": -0.5,
+   "predicted_change_sd": 0.5259620450011091,
+   "predicted_constant": false
+  },
+  "34428183": {
+   "tissue": "pancreas",
+   "age_young": 14,
+   "age_old": 66,
+   "n_genes": 123,
+   "spearman": -0.09056946722196725,
+   "spearman_95ci": [
+    -0.27226341301897256,
+    0.0953801978188266
+   ],
+   "direction_accuracy_nonzero": 0.3898305084745763,
+   "n_reference_significant": 21,
+   "spearman_significant_subset": -0.1257333259210453,
+   "predicted_change_sd": 0.5219925301235905,
+   "predicted_constant": false
+  },
+  "34450029": {
+   "tissue": "colon",
+   "age_young": 47,
+   "age_old": 81,
+   "n_genes": 137,
+   "spearman": 0.04990476531810071,
+   "spearman_95ci": [
+    -0.12837230047007622,
+    0.23149540694351703
+   ],
+   "direction_accuracy_nonzero": 0.35384615384615387,
+   "n_reference_significant": 0,
+   "spearman_significant_subset": null,
+   "predicted_change_sd": 0.2154928557212994,
+   "predicted_constant": false
+  },
+  "35021063": {
+   "tissue": "liver",
+   "age_young": 46,
+   "age_old": 73,
+   "n_genes": 123,
+   "spearman": 0.20638160560992896,
+   "spearman_95ci": [
+    0.04283586701909717,
+    0.3674090509335598
+   ],
+   "direction_accuracy_nonzero": 0.525,
+   "n_reference_significant": 5,
+   "spearman_significant_subset": 0.3,
+   "predicted_change_sd": 0.19838803168634458,
+   "predicted_constant": false
+  },
+  "36108172": {
+   "tissue": "lung",
+   "age_young": 53,
+   "age_old": 77,
+   "n_genes": 144,
+   "spearman": 0.23062222185940684,
+   "spearman_95ci": [
+    0.061028983441152554,
+    0.3967571254662685
+   ],
+   "direction_accuracy_nonzero": 0.5151515151515151,
+   "n_reference_significant": 4,
+   "spearman_significant_subset": 0.2581988897471611,
+   "predicted_change_sd": 0.2751556051573945,
+   "predicted_constant": false
+  },
+  "36516485": {
+   "tissue": "skeletal muscle",
+   "age_young": 20,
+   "age_old": 82,
+   "n_genes": 124,
+   "spearman": 0.10701694215952291,
+   "spearman_95ci": [
+    -0.0764483479618294,
+    0.28323059211363283
+   ],
+   "direction_accuracy_nonzero": 0.5462962962962963,
+   "n_reference_significant": 0,
+   "spearman_significant_subset": null,
+   "predicted_change_sd": 0.16118744832709359,
+   "predicted_constant": false
+  }
+ },
+ "pooled_spearman_all_pairs": -0.05111849861628956,
+ "median_study_spearman": -0.07493586954043796,
+ "note": "Reference = HCATA annual log2FC x (age_old - age_young) for the study's All Cells context; prediction = log2(TPM_old+1) - log2(TPM_young+1). HCATA values are single-cell normalized counts, not TPM; bootstrap resamples genes, not donors."
+}

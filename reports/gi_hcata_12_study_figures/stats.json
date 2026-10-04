@@ -1,0 +1,762 @@
+{
+ "studies": {
+  "31924475": {
+   "tissue": "blood",
+   "age_young": 38,
+   "age_old": 75,
+   "n_genes": 122,
+   "n_significant": 0,
+   "n_rounded_zero": 10,
+   "note": "head and neck cancer cohort; HCATA samples are blood and mouth",
+   "curation": "effect label Blood used",
+   "median_abs_reference": 0.111,
+   "g0-expression": {
+    "spearman": -0.05930227185890867,
+    "ci95": [
+     -0.24395672297694446,
+     0.13252944820997856
+    ],
+    "perm_p_two_sided": 0.519240379810095,
+    "direction_agreement": 0.5377358490566038,
+    "n_direction": 106,
+    "median_abs_predicted": 0.11271350968673666,
+    "n_pred_up": 83,
+    "n_pred_down": 33,
+    "n_pred_zero": 6
+   },
+   "g0-expression-8192": {
+    "spearman": -0.14794000404470306,
+    "ci95": [
+     -0.3189595328820889,
+     0.02902379285803812
+    ],
+    "perm_p_two_sided": 0.10844577711144428,
+    "direction_agreement": 0.4766355140186916,
+    "n_direction": 107,
+    "median_abs_predicted": 0.08373801571799344,
+    "n_pred_up": 74,
+    "n_pred_down": 42,
+    "n_pred_zero": 6
+   }
+  },
+  "30518681": {
+   "tissue": "bone marrow",
+   "age_young": 30,
+   "age_old": 66,
+   "n_genes": 122,
+   "n_significant": 0,
+   "n_rounded_zero": 7,
+   "note": "disease status NULL in HCATA",
+   "curation": null,
+   "median_abs_reference": 0.144,
+   "g0-expression": {
+    "spearman": -0.3325205802831658,
+    "ci95": [
+     -0.4841617196103915,
+     -0.16085746270088425
+    ],
+    "perm_p_two_sided": 0.0004997501249375312,
+    "direction_agreement": 0.26785714285714285,
+    "n_direction": 112,
+    "median_abs_predicted": 0.1127088672009835,
+    "n_pred_up": 32,
+    "n_pred_down": 87,
+    "n_pred_zero": 3
+   },
+   "g0-expression-8192": {
+    "spearman": -0.17202900343388997,
+    "ci95": [
+     -0.3561275480800101,
+     0.015234108358535049
+    ],
+    "perm_p_two_sided": 0.06496751624187906,
+    "direction_agreement": 0.22522522522522523,
+    "n_direction": 111,
+    "median_abs_predicted": 0.15041861654761712,
+    "n_pred_up": 14,
+    "n_pred_down": 104,
+    "n_pred_zero": 4
+   }
+  },
+  "31178122": {
+   "tissue": "brain",
+   "age_young": 18,
+   "age_old": 75,
+   "n_genes": 131,
+   "n_significant": 2,
+   "n_rounded_zero": 12,
+   "note": "5 of 43 samples Alzheimer/CAA",
+   "curation": null,
+   "median_abs_reference": 0.228,
+   "g0-expression": {
+    "spearman": -0.15599631862735938,
+    "ci95": [
+     -0.3221775166072451,
+     0.02175728779957407
+    ],
+    "perm_p_two_sided": 0.06996501749125437,
+    "direction_agreement": 0.35714285714285715,
+    "n_direction": 112,
+    "median_abs_predicted": 0.22542473189606982,
+    "n_pred_up": 79,
+    "n_pred_down": 45,
+    "n_pred_zero": 7
+   },
+   "g0-expression-8192": {
+    "spearman": -0.12406693620959794,
+    "ci95": [
+     -0.3076773445311852,
+     0.06687688687632828
+    ],
+    "perm_p_two_sided": 0.16441779110444776,
+    "direction_agreement": 0.44642857142857145,
+    "n_direction": 112,
+    "median_abs_predicted": 0.1743659609481094,
+    "n_pred_up": 48,
+    "n_pred_down": 76,
+    "n_pred_zero": 7
+   }
+  },
+  "31316211": {
+   "tissue": "brain",
+   "age_young": 35,
+   "age_old": 64,
+   "n_genes": 123,
+   "n_significant": 2,
+   "n_rounded_zero": 1,
+   "note": "12 of 21 samples multiple sclerosis",
+   "curation": null,
+   "median_abs_reference": 0.319,
+   "g0-expression": {
+    "spearman": -0.2257323437706954,
+    "ci95": [
+     -0.399927130416219,
+     -0.03922830207100885
+    ],
+    "perm_p_two_sided": 0.01249375312343828,
+    "direction_agreement": 0.5446428571428571,
+    "n_direction": 112,
+    "median_abs_predicted": 0.06762616798721943,
+    "n_pred_up": 25,
+    "n_pred_down": 88,
+    "n_pred_zero": 10
+   },
+   "g0-expression-8192": {
+    "spearman": -0.323302536700502,
+    "ci95": [
+     -0.4847144292956737,
+     -0.14326564355082957
+    ],
+    "perm_p_two_sided": 0.0009995002498750624,
+    "direction_agreement": 0.6218487394957983,
+    "n_direction": 119,
+    "median_abs_predicted": 0.235069777023571,
+    "n_pred_up": 11,
+    "n_pred_down": 109,
+    "n_pred_zero": 3
+   }
+  },
+  "32888429": {
+   "tissue": "colon",
+   "age_young": 35,
+   "age_old": 82,
+   "n_genes": 127,
+   "n_significant": 3,
+   "n_rounded_zero": 11,
+   "note": "labelled healthy",
+   "curation": null,
+   "median_abs_reference": 0.188,
+   "g0-expression": {
+    "spearman": -0.04466960486064592,
+    "ci95": [
+     -0.2157134166529679,
+     0.1357385063798035
+    ],
+    "perm_p_two_sided": 0.6141929035482259,
+    "direction_agreement": 0.514018691588785,
+    "n_direction": 107,
+    "median_abs_predicted": 0.15779512315663524,
+    "n_pred_up": 17,
+    "n_pred_down": 101,
+    "n_pred_zero": 9
+   },
+   "g0-expression-8192": {
+    "spearman": 0.09528837550542334,
+    "ci95": [
+     -0.09145009387756065,
+     0.27837015436494883
+    ],
+    "perm_p_two_sided": 0.28535732133933034,
+    "direction_agreement": 0.5779816513761468,
+    "n_direction": 109,
+    "median_abs_predicted": 0.12758382393727885,
+    "n_pred_up": 18,
+    "n_pred_down": 102,
+    "n_pred_zero": 7
+   }
+  },
+  "34450029": {
+   "tissue": "colon",
+   "age_young": 47,
+   "age_old": 81,
+   "n_genes": 137,
+   "n_significant": 0,
+   "n_rounded_zero": 7,
+   "note": "54 of 98 samples adenocarcinoma",
+   "curation": null,
+   "median_abs_reference": 0.17,
+   "g0-expression": {
+    "spearman": 0.04990476531810071,
+    "ci95": [
+     -0.13504721131874547,
+     0.2355180281499002
+    ],
+    "perm_p_two_sided": 0.5717141429285357,
+    "direction_agreement": 0.3865546218487395,
+    "n_direction": 119,
+    "median_abs_predicted": 0.12398216149275854,
+    "n_pred_up": 21,
+    "n_pred_down": 104,
+    "n_pred_zero": 12
+   },
+   "g0-expression-8192": {
+    "spearman": 0.024841372337984835,
+    "ci95": [
+     -0.14758748394161025,
+     0.18117820212846023
+    ],
+    "perm_p_two_sided": 0.7881059470264867,
+    "direction_agreement": 0.42276422764227645,
+    "n_direction": 123,
+    "median_abs_predicted": 0.17112379182130355,
+    "n_pred_up": 32,
+    "n_pred_down": 97,
+    "n_pred_zero": 8
+   }
+  },
+  "35021063": {
+   "tissue": "liver",
+   "age_young": 46,
+   "age_old": 73,
+   "n_genes": 123,
+   "n_significant": 5,
+   "n_rounded_zero": 3,
+   "note": "includes obesity/type 2 diabetes samples",
+   "curation": "HCATA effect label says Lung2; PubMed title (hepatic macrophage niches) and HCATA sample table say liver",
+   "median_abs_reference": 0.27,
+   "g0-expression": {
+    "spearman": 0.20638160560992896,
+    "ci95": [
+     0.04486751719178173,
+     0.3609314989350171
+    ],
+    "perm_p_two_sided": 0.022988505747126436,
+    "direction_agreement": 0.5575221238938053,
+    "n_direction": 113,
+    "median_abs_predicted": 0.11271278782540373,
+    "n_pred_up": 59,
+    "n_pred_down": 57,
+    "n_pred_zero": 7
+   },
+   "g0-expression-8192": {
+    "spearman": -0.10015872271356617,
+    "ci95": [
+     -0.26394835871655753,
+     0.07231326682336606
+    ],
+    "perm_p_two_sided": 0.2698650674662669,
+    "direction_agreement": 0.5043478260869565,
+    "n_direction": 115,
+    "median_abs_predicted": 0.08416351289084067,
+    "n_pred_up": 48,
+    "n_pred_down": 70,
+    "n_pred_zero": 5
+   }
+  },
+  "30554520": {
+   "tissue": "lung",
+   "age_young": 22,
+   "age_old": 71,
+   "n_genes": 136,
+   "n_significant": 0,
+   "n_rounded_zero": 7,
+   "note": "5 of 17 samples interstitial lung disease",
+   "curation": "HCATA effect label has an empty tissue; sample table and PubMed title say lung",
+   "median_abs_reference": 0.196,
+   "g0-expression": {
+    "spearman": -0.11541930705633721,
+    "ci95": [
+     -0.2793837196922138,
+     0.06567416573126417
+    ],
+    "perm_p_two_sided": 0.16841579210394803,
+    "direction_agreement": 0.5042016806722689,
+    "n_direction": 119,
+    "median_abs_predicted": 0.1577918520313113,
+    "n_pred_up": 53,
+    "n_pred_down": 73,
+    "n_pred_zero": 10
+   },
+   "g0-expression-8192": {
+    "spearman": -0.10549672861589648,
+    "ci95": [
+     -0.2756973461392741,
+     0.07338247031107546
+    ],
+    "perm_p_two_sided": 0.21689155422288856,
+    "direction_agreement": 0.48333333333333334,
+    "n_direction": 120,
+    "median_abs_predicted": 0.1058420318583786,
+    "n_pred_up": 58,
+    "n_pred_down": 69,
+    "n_pred_zero": 9
+   }
+  },
+  "32832599": {
+   "tissue": "lung",
+   "age_young": 31,
+   "age_old": 70,
+   "n_genes": 140,
+   "n_significant": 0,
+   "n_rounded_zero": 12,
+   "note": "32 of 78 samples interstitial lung disease",
+   "curation": null,
+   "median_abs_reference": 0.117,
+   "g0-expression": {
+    "spearman": -0.19081853464147652,
+    "ci95": [
+     -0.3546908891218034,
+     -0.01616604624424824
+    ],
+    "perm_p_two_sided": 0.022488755622188907,
+    "direction_agreement": 0.47619047619047616,
+    "n_direction": 126,
+    "median_abs_predicted": 0.20288510988880604,
+    "n_pred_up": 95,
+    "n_pred_down": 43,
+    "n_pred_zero": 2
+   },
+   "g0-expression-8192": {
+    "spearman": 0.23380464840581894,
+    "ci95": [
+     0.05829081826497814,
+     0.3861863582170103
+    ],
+    "perm_p_two_sided": 0.006496751624187906,
+    "direction_agreement": 0.5833333333333334,
+    "n_direction": 120,
+    "median_abs_predicted": 0.08866566091393979,
+    "n_pred_up": 68,
+    "n_pred_down": 64,
+    "n_pred_zero": 8
+   }
+  },
+  "36108172": {
+   "tissue": "lung",
+   "age_young": 53,
+   "age_old": 77,
+   "n_genes": 144,
+   "n_significant": 4,
+   "n_rounded_zero": 12,
+   "note": "6 of 12 samples COPD",
+   "curation": "HCATA effect label says Liver; PubMed title (COPD) and HCATA sample table say lung",
+   "median_abs_reference": 0.12,
+   "g0-expression": {
+    "spearman": 0.23062222185940684,
+    "ci95": [
+     0.058313117985322904,
+     0.39402130293392407
+    ],
+    "perm_p_two_sided": 0.005997001499250375,
+    "direction_agreement": 0.5396825396825397,
+    "n_direction": 126,
+    "median_abs_predicted": 0.11271724772940361,
+    "n_pred_up": 68,
+    "n_pred_down": 69,
+    "n_pred_zero": 7
+   },
+   "g0-expression-8192": {
+    "spearman": -0.0712577366934916,
+    "ci95": [
+     -0.25153228062526234,
+     0.09517609985296642
+    ],
+    "perm_p_two_sided": 0.4102948525737131,
+    "direction_agreement": 0.4583333333333333,
+    "n_direction": 120,
+    "median_abs_predicted": 0.09399720726926297,
+    "n_pred_up": 75,
+    "n_pred_down": 57,
+    "n_pred_zero": 12
+   }
+  },
+  "34428183": {
+   "tissue": "pancreas",
+   "age_young": 14,
+   "age_old": 66,
+   "n_genes": 123,
+   "n_significant": 21,
+   "n_rounded_zero": 5,
+   "note": "labelled healthy; islet study",
+   "curation": "youngest donor is 14, so descriptions do not say adult",
+   "median_abs_reference": 0.312,
+   "g0-expression": {
+    "spearman": -0.09056946722196725,
+    "ci95": [
+     -0.26688674931626216,
+     0.09755472683464742
+    ],
+    "perm_p_two_sided": 0.31134432783608196,
+    "direction_agreement": 0.40350877192982454,
+    "n_direction": 114,
+    "median_abs_predicted": 0.18033676227884232,
+    "n_pred_up": 26,
+    "n_pred_down": 93,
+    "n_pred_zero": 4
+   },
+   "g0-expression-8192": {
+    "spearman": 0.07608171608047884,
+    "ci95": [
+     -0.10177930648252212,
+     0.25081520598044943
+    ],
+    "perm_p_two_sided": 0.4002998500749625,
+    "direction_agreement": 0.5175438596491229,
+    "n_direction": 114,
+    "median_abs_predicted": 0.12981083518168912,
+    "n_pred_up": 28,
+    "n_pred_down": 90,
+    "n_pred_zero": 5
+   }
+  },
+  "36516485": {
+   "tissue": "skeletal muscle",
+   "age_young": 20,
+   "age_old": 82,
+   "n_genes": 124,
+   "n_significant": 0,
+   "n_rounded_zero": 16,
+   "note": "labelled healthy; source study includes frailty",
+   "curation": null,
+   "median_abs_reference": 0.124,
+   "g0-expression": {
+    "spearman": 0.10701694215952291,
+    "ci95": [
+     -0.07860622960629973,
+     0.2833947516681868
+    ],
+    "perm_p_two_sided": 0.23238380809595202,
+    "direction_agreement": 0.5841584158415841,
+    "n_direction": 101,
+    "median_abs_predicted": 0.09017057175964549,
+    "n_pred_up": 53,
+    "n_pred_down": 64,
+    "n_pred_zero": 7
+   },
+   "g0-expression-8192": {
+    "spearman": -0.017680600755726205,
+    "ci95": [
+     -0.2123196782971058,
+     0.18809423048627447
+    ],
+    "perm_p_two_sided": 0.8510744627686156,
+    "direction_agreement": 0.5714285714285714,
+    "n_direction": 98,
+    "median_abs_predicted": 0.0868688874665402,
+    "n_pred_up": 10,
+    "n_pred_down": 104,
+    "n_pred_zero": 10
+   }
+  }
+ },
+ "models": {
+  "g0-expression": {
+   "pooled_spearman": -0.05111849861628956,
+   "median_study_spearman": -0.07493586954043796,
+   "n_positive": 4,
+   "n_ci_above_zero": 2,
+   "n_ci_below_zero": 3,
+   "n_perm_p_below_005": 5,
+   "median_abs_predicted": 0.13525104708258162,
+   "n_pairs": 1552,
+   "n_requests": 3104,
+   "gene_sign_consistency_median": 0.5833333333333334
+  },
+  "g0-expression-8192": {
+   "pooled_spearman": -0.0324282704585622,
+   "median_study_spearman": -0.08570822970352888,
+   "n_positive": 4,
+   "n_ci_above_zero": 1,
+   "n_ci_below_zero": 1,
+   "n_perm_p_below_005": 2,
+   "median_abs_predicted": 0.1219805517214887,
+   "n_pairs": 1552,
+   "n_requests": 3104,
+   "gene_sign_consistency_median": 0.6666666666666666
+  }
+ },
+ "model_agreement": {
+  "level_spearman": 0.8197476327683476,
+  "change_spearman": 0.35739764972015137,
+  "change_sign_agreement": 0.6669069935111752,
+  "study_rho_spearman": 0.37762237762237766
+ },
+ "reference_agreement": {
+  "order": [
+   "31924475",
+   "30518681",
+   "31178122",
+   "31316211",
+   "32888429",
+   "34450029",
+   "35021063",
+   "30554520",
+   "32832599",
+   "36108172",
+   "34428183",
+   "36516485"
+  ],
+  "matrix": [
+   [
+    1.0,
+    0.07411401549913268,
+    -0.00018926451587228114,
+    0.06698169222603663,
+    0.3762594373191324,
+    0.16369947566026694,
+    0.31844266558491646,
+    -0.32444273892792885,
+    -0.2050597400838698,
+    -0.12779566175533463,
+    -0.2573602308035435,
+    -0.01826015553512574
+   ],
+   [
+    0.07411401549913268,
+    1.0,
+    0.0015677189534561871,
+    0.05295692397126012,
+    0.0020844480303852716,
+    0.09248974017798821,
+    -0.19715752433900005,
+    -0.12378354959214725,
+    0.32132274034328456,
+    -0.17072245484598747,
+    0.20586368065499488,
+    -0.10868290327488941
+   ],
+   [
+    -0.00018926451587228117,
+    0.0015677189534561871,
+    1.0,
+    -0.054816455629656854,
+    -0.15731691022469918,
+    0.12857580683270972,
+    0.1899474468097556,
+    0.1140638804086225,
+    -0.15217361425949308,
+    0.2296766474317417,
+    0.14495529784834602,
+    0.0945036149270746
+   ],
+   [
+    0.06698169222603663,
+    0.05295692397126011,
+    -0.054816455629656854,
+    0.9999999999999998,
+    0.24169824611999913,
+    -0.11828186622044275,
+    -0.30342113124238124,
+    -0.11271733005587643,
+    0.09743225026108528,
+    -0.2163831258243304,
+    0.03477261616824665,
+    0.022357910377082926
+   ],
+   [
+    0.3762594373191325,
+    0.002084448030385272,
+    -0.1573169102246992,
+    0.24169824611999913,
+    1.0,
+    0.046568760482008,
+    0.07740369351784578,
+    -0.2042751733416957,
+    -0.03692144263639403,
+    -0.26692341168395556,
+    -0.03773822713250367,
+    0.13419092811908429
+   ],
+   [
+    0.16369947566026694,
+    0.09248974017798821,
+    0.1285758068327097,
+    -0.11828186622044273,
+    0.046568760482008,
+    1.0,
+    0.2167584671489495,
+    0.17952930653380572,
+    0.14170657568170497,
+    -0.15200734113862616,
+    0.05983530350926442,
+    -0.2667357347240845
+   ],
+   [
+    0.31844266558491646,
+    -0.19715752433900005,
+    0.18994744680975562,
+    -0.3034211312423812,
+    0.07740369351784578,
+    0.2167584671489495,
+    1.0,
+    -0.09508994393930441,
+    -0.3592967973797243,
+    0.08878818647186593,
+    -0.18654161334144367,
+    0.11232833504377465
+   ],
+   [
+    -0.3244427389279289,
+    -0.12378354959214724,
+    0.1140638804086225,
+    -0.11271733005587643,
+    -0.2042751733416957,
+    0.17952930653380572,
+    -0.09508994393930441,
+    1.0,
+    -0.038665426623519475,
+    0.15613972887275995,
+    0.13894249454054364,
+    -0.06882693912772271
+   ],
+   [
+    -0.20505974008386982,
+    0.3213227403432845,
+    -0.15217361425949308,
+    0.09743225026108528,
+    -0.03692144263639403,
+    0.14170657568170497,
+    -0.35929679737972436,
+    -0.03866542662351948,
+    1.0,
+    -0.23730148365837747,
+    0.03484201345814543,
+    -0.3054378917753518
+   ],
+   [
+    -0.12779566175533463,
+    -0.17072245484598747,
+    0.22967664743174174,
+    -0.2163831258243304,
+    -0.26692341168395556,
+    -0.15200734113862616,
+    0.08878818647186593,
+    0.15613972887275995,
+    -0.23730148365837753,
+    1.0,
+    0.03092293572240459,
+    0.1839270878839853
+   ],
+   [
+    -0.25736023080354353,
+    0.20586368065499488,
+    0.144955297848346,
+    0.03477261616824665,
+    -0.03773822713250367,
+    0.059835303509264415,
+    -0.18654161334144367,
+    0.13894249454054364,
+    0.03484201345814542,
+    0.030922935722404593,
+    0.9999999999999998,
+    0.023051412854045966
+   ],
+   [
+    -0.01826015553512574,
+    -0.10868290327488943,
+    0.09450361492707458,
+    0.022357910377082922,
+    0.13419092811908429,
+    -0.2667357347240845,
+    0.11232833504377465,
+    -0.06882693912772271,
+    -0.3054378917753518,
+    0.18392708788398532,
+    0.023051412854045963,
+    0.9999999999999998
+   ]
+  ],
+  "same_tissue": {
+   "lung": [
+    -0.038665426623519475,
+    0.15613972887275995,
+    -0.23730148365837747
+   ],
+   "colon": [
+    0.046568760482008
+   ],
+   "brain": [
+    -0.054816455629656854
+   ]
+  },
+  "median_all_pairs": 0.022704661615564444
+ },
+ "baseline_level_spearman": {
+  "31924475": {
+   "g0-expression": 0.2657607271739156,
+   "g0-expression-8192": 0.37668951316330274
+  },
+  "30518681": {
+   "g0-expression": 0.4326332198772629,
+   "g0-expression-8192": 0.442575628799888
+  },
+  "31178122": {
+   "g0-expression": 0.17500266938160583,
+   "g0-expression-8192": 0.17930764785655853
+  },
+  "31316211": {
+   "g0-expression": -0.12661056685104244,
+   "g0-expression-8192": -0.21216235202369468
+  },
+  "32888429": {
+   "g0-expression": -0.09964640617949211,
+   "g0-expression-8192": 0.047028064230078374
+  },
+  "34450029": {
+   "g0-expression": 0.2829945630355879,
+   "g0-expression-8192": 0.47543126048619644
+  },
+  "35021063": {
+   "g0-expression": 0.34282789070311764,
+   "g0-expression-8192": 0.36497021234160154
+  },
+  "30554520": {
+   "g0-expression": 0.41364972347537365,
+   "g0-expression-8192": 0.5734155723595178
+  },
+  "32832599": {
+   "g0-expression": 0.2770305513757214,
+   "g0-expression-8192": 0.4294002393454645
+  },
+  "36108172": {
+   "g0-expression": 0.3876927843636029,
+   "g0-expression-8192": 0.5450518075012045
+  },
+  "34428183": {
+   "g0-expression": 0.16921747322900957,
+   "g0-expression-8192": 0.21876738378371094
+  },
+  "36516485": {
+   "g0-expression": 0.2549872526067248,
+   "g0-expression-8192": 0.3060273196585874
+  }
+ },
+ "panel": {
+  "n_genes": 150,
+  "groups": {
+   "background": 50,
+   "down": 50,
+   "up": 50
+  }
+ }
+}

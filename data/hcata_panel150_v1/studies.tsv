@@ -1,0 +1,13 @@
+pmid	tissue	description_tissue	age_young	age_old	donor_age_range	hcata_context_label	cohort_disease_note	curation_note
+36108172	lung	lung tissue	53	77	33-81	All Cells,  Liver	6 of 12 samples COPD	HCATA effect label says Liver; PubMed title (COPD) and HCATA sample table say lung
+32832599	lung	lung tissue	31	70	20-80	All Cells,  Lung1	32 of 78 samples interstitial lung disease
+30554520	lung	lung tissue	22	71	21-72	All Cells,  	5 of 17 samples interstitial lung disease	HCATA effect label has an empty tissue; sample table and PubMed title say lung
+30518681	bone marrow	bone marrow	30	66	24-84	All Cells,  Bone Marrow	disease status NULL in HCATA
+35021063	liver	liver tissue	46	73	28-75	All Cells,  Lung2	includes obesity/type 2 diabetes samples	HCATA effect label says Lung2; PubMed title (hepatic macrophage niches) and HCATA sample table say liver
+36516485	skeletal muscle	skeletal muscle tissue	20	82	19-90	All Cells,  Skeletal Muscle	labelled healthy; source study includes frailty
+34450029	colon	colon tissue	47	81	35-91	All Cells,  Colon2	54 of 98 samples adenocarcinoma
+34428183	pancreas	pancreatic tissue	14	66	14-66	All Cells,  Pancreas	labelled healthy; islet study	youngest donor is 14, so descriptions do not say adult
+32888429	colon	colon tissue	35	82	35-90	All Cells,  Colon1	labelled healthy
+31316211	brain	brain tissue	35	64	34-82	All Cells,  Brain2	12 of 21 samples multiple sclerosis
+31924475	blood	blood	38	75	28-80	All Cells,  Blood	head and neck cancer cohort; HCATA samples are blood and mouth	effect label Blood used
+31178122	brain	brain tissue	18	75	18-75	All Cells,  Brain1	5 of 43 samples Alzheimer/CAA

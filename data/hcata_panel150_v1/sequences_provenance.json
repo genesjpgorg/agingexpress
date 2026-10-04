@@ -1,0 +1,11 @@
+{
+ "assembly": "GRCh38 primary assembly",
+ "ensembl_release": 115,
+ "gtf": "https://ftp.ensembl.org/pub/release-115/gtf/",
+ "tss": "Ensembl_canonical transcript start, sense strand 5'->3'",
+ "flank_bp": 40960,
+ "model_for_flank": "g0-expression-8192",
+ "fasta": "/mnt/filesystem-c8/genes.jpg/agingexpress_cache/sequences_hcata_panel150_v1_flank40960.fa.gz",
+ "n_ok": 150,
+ "n_genes": 150
+}
