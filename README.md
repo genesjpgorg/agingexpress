@@ -23,3 +23,5 @@ Python 3.12 was used for validation. Building from the committed snapshots requi
 The main limitations are the small donor cohort, a large age gap (six donors aged 19–22 and eleven aged 70–90), uncertain cell annotations, and unverified health/sex covariates. HCATA labels every donor healthy, but the original study includes sarcopenia/frailty; that label is retained as a source claim. Reference effects come from single-nucleus counts and are **not absolute TPM measurements**. The gene panel is selected and previous pilot model predictions had been inspected. Model-training overlap is unverified. These data support an exploratory age-response test, not a claim of independent or causal ageing validation.
 
 Sources: Bartz et al., *Communications Biology* (2025), [HCATA paper](https://doi.org/10.1038/s42003-025-08845-8); *Aging* (2022), [muscle source study](https://doi.org/10.18632/aging.204435); [GEO GSE167186](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167186). Source terms are recorded in [SOURCE_TERMS.md](SOURCE_TERMS.md).
+
+Report: [GI age-expression 150-gene report](reports/gi_age_expression_150_gene_report.docx).
