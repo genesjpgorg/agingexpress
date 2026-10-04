@@ -24,6 +24,8 @@ The main limitations are the small donor cohort, a large age gap (six donors age
 
 Sources: Bartz et al., *Communications Biology* (2025), [HCATA paper](https://doi.org/10.1038/s42003-025-08845-8); *Aging* (2022), [muscle source study](https://doi.org/10.18632/aging.204435); [GEO GSE167186](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167186). Source terms are recorded in [SOURCE_TERMS.md](SOURCE_TERMS.md).
 
-Report: [GI age-expression 150-gene report](reports/gi_age_expression_150_gene_report.docx).
+Report: GI age-expression 150-gene report ([DOCX](reports/gi_age_expression_150_gene_report.docx), [PDF](reports/gi_age_expression_150_gene_report.pdf), [Markdown](reports/gi_age_expression_150_gene_report.md)).
 
-Report: [GI age-expression predictions across 12 HCATA studies, 150-gene panel, two models](reports/gi_hcata_12_study_150_gene_report.docx). Built by `scripts/hcata_full.py` (tables, sequences, GI requests and predictions, per-study evaluation) and `scripts/hcata_panel_report.py` (statistics, figures and the DOCX; needs matplotlib and python-docx) from `data/hcata_panel150_v1`.
+Report: GI age-expression predictions across 12 HCATA studies, 150-gene panel, two models ([DOCX](reports/gi_hcata_12_study_150_gene_report.docx), [PDF](reports/gi_hcata_12_study_150_gene_report.pdf), [Markdown](reports/gi_hcata_12_study_150_gene_report.md)). Built by `scripts/hcata_full.py` (tables, sequences, GI requests and predictions, per-study evaluation) and `scripts/hcata_panel_report.py` (statistics, figures and the DOCX; needs matplotlib and python-docx) from `data/hcata_panel150_v1`.
+
+The PDF and Markdown versions are generated from the DOCX files by `scripts/convert_reports.py` (pandoc and WeasyPrint, via `pip install pypandoc_binary weasyprint python-docx`); the DOCX files are the source of record.

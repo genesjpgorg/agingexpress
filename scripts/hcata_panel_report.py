@@ -236,7 +236,7 @@ def figures(res: dict, out: Path) -> list[Path]:
     a2.set_yticks(yy)
     a2.set_yticklabels(short, fontsize=6.5)
     style(a2, "Expression level at the young age", "Spearman ρ, GI level vs HCATA fit", "")
-    a2.legend(frameon=False, fontsize=6.5, labelcolor=INK2, loc="lower left")
+    a2.legend(frameon=False, fontsize=6.5, labelcolor=INK2, loc="upper left")
     f.tight_layout()
     paths.append(out / "fig3_reference_checks.png")
     f.savefig(paths[-1], facecolor=SURFACE)
